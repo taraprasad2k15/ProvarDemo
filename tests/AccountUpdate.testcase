@@ -210,7 +210,7 @@
                 </apiParam>
               </generatedParameters>
             </apiCall>
-            <apiCall apiId="com.provar.plugins.forcedotcom.core.ui.UiDoAction" guid="2584544c-a397-4b68-9368-c60dd1000927" name="UiDoAction" testItemId="7" title="Set the Phone field to 56893456">
+            <apiCall apiId="com.provar.plugins.forcedotcom.core.ui.UiDoAction" guid="2584544c-a397-4b68-9368-c60dd1000927" name="UiDoAction" testItemId="7" title="Set the Phone field to 5689">
               <arguments>
                 <argument id="locator">
                   <value class="uiLocator" uri="ui:locator?name=Phone&amp;binding=sf%3Aui%3Abinding%3Aobject%3Ffield%3DPhone%26object%3DAccount"/>
@@ -219,7 +219,7 @@
                   <value class="uiInteraction" uri="ui:interaction?name=set"/>
                 </argument>
                 <argument id="value">
-                  <value class="value" valueClass="string">56893456</value>
+                  <value class="value" valueClass="string">5689</value>
                 </argument>
                 <argument id="blur">
                   <value class="value" valueClass="boolean">false</value>
@@ -244,7 +244,7 @@
                 </argument>
                 <argument id="locatorParams"/>
                 <argument id="interactionDescription">
-                  <value class="value" valueClass="string">Set the Phone field to 56893456</value>
+                  <value class="value" valueClass="string">Set the Phone field to 5689</value>
                 </argument>
               </arguments>
               <generatedParameters>
