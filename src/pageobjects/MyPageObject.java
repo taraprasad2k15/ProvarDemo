@@ -11,7 +11,7 @@ import com.provar.core.testapi.annotations.*;
 @Page( title="MyPageObject"                                
      , summary=""
      , relativeUrl=""
-     , connection="SnapDeal2"
+     , connection="SnapDeal90"
      )             
 public class MyPageObject {
 
